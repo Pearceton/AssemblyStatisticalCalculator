@@ -1,3 +1,8 @@
-# Statistical Calculator Using MIPS
+<html>
+<head>
+  <title>Statistical Calculator Using MIPS</title>
+</head>
+</html>
 
-Statistical Calculator written in MIPS assembly language and assembled in MARS
+
+
